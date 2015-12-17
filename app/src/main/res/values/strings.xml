@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Display Master</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_toggle">On / Off</string>
+    <string name="action_about">About</string>
+    <string name="strEnabled">Enable Brightness</string>
+    <string name="strBrightness">Brightness</string>
+    <string name="strTimeOut">Enable Timeout</string>
+
+</resources>
